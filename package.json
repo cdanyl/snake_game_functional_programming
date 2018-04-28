@@ -1,0 +1,20 @@
+{
+  "name": "snake_game_fp",
+  "version": "1.0.0",
+  "description": "Javascript Snake Game using functional programming",
+  "keywords": [
+    "functionnal programming",
+    "es6",
+    "snake game"
+  ],
+  "main": "app.js",
+  "scripts": {
+    "start": "parcel ./src/web.html"
+  },
+  "author": "Ch. Danyl",
+  "dependencies": {
+    "@types/ramda": "^0.25.24",
+    "parcel-bundler": "^1.7.1",
+    "ramda": "^0.25.0"
+  }
+}
